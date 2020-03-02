@@ -1,8 +1,10 @@
 import React from "react";
 import "./App.css";
 
+import { HomeContainer } from "./Home";
+
 function App() {
-  return <div>Hello</div>;
+  return <HomeContainer />;
 }
 
 export default App;
