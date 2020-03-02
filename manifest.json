@@ -1,0 +1,9 @@
+{
+  "short_name": "Weather App",
+  "name": "Weather app using open weather map api",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
